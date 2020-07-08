@@ -1,3 +1,5 @@
 if true
-  puts "This code runs!"
+  puts "Even!"
+else
+  puts "Odd!"
 end
